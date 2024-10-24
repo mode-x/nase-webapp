@@ -32,7 +32,7 @@
   "entities": {
     "SalesOrderDetail": {
       "source": {
-        "object": "AdventureWorks.SalesOrderDetail",
+        "object": "SalesLT.SalesOrderDetail",
         "type": "table"
       },
       "graphql": {
